@@ -12,13 +12,13 @@
 }
 
 .jumbotron h1 {
-  color: #fff;
-  font-size: 55px;  
+  color: #f00;
+  font-size: 100px;  
   font-family: 'Rock Salt', cursive;
 }
 
 .jumbotron p {
-  color: #fff;
-  font-size: 25px;
+  color: #0f0;
+  font-size: 50px;
   font-weight: bold;
 }
